@@ -1,18 +1,3 @@
-# import streamlit as st
-# import pandas as pd
-# st.markdown("<h1 style='text-align: center; '>CookEthNotMeth</h1>", unsafe_allow_html=True)
-# df = pd.read_csv('./data/eth23.csv')
-# count = 1
-
-# for i in range(0,len(df['Summary'])):
-#     st.markdown('___')
-#     st.write(count,".")
-#     st.write(df['Summary'][i])
-#     st.markdown(f"<details><summary>For More Info About Me Click Here</summary>{df['Problem Statement'][i]}</details>",unsafe_allow_html=True)
-#     count+=1
-# st.balloons()
-
-
 import streamlit as st
 import pandas as pd
 import os
@@ -43,6 +28,15 @@ sorted_vote_df = vote_df.sort_values(by='NetVotes', ascending=False)
 
 # Create a bar chart for net votes
 st.bar_chart(sorted_vote_df['NetVotes'])
+
+# Add a reset button
+reset_button = st.button("Reset Votes")
+
+# If reset button is clicked, reset all vote counts to zero
+if reset_button:
+    vote_df[['Upvote', 'Downvote', 'NetVotes']] = 0
+    vote_df.to_csv(vote_file_path, index=False)
+    st.success("Votes reset successfully!")
 
 for i in range(len(df['Summary'])):
     st.markdown('___')
