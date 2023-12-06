@@ -1,0 +1,691 @@
+Problem Statement,Summary
+"▼🏆 Best use of zkEVM ⸺ $5,000Up to 4 teams will receive $1,250The Polygon zkEVM launched earlier this year and it has grown to hold a TVL of $50 million and continues to attract major protocols. For this challenge, we want to see your most innovative use of the Polygon zkEVM, this is an open challenge that will see the most innovative and deserving protocols with killer UX carry the day!Qualification RequirementsBe Innovative
+Deploy to the zkEVM 
+Note: You can deploy to Mumbai if you're project requires another service provider that's not supported on the Polygon zkEVMLinks and ResourcesDocumentationhttps://wiki.polygon.technology/docs/zkevm/↗Full Stack Demohttps://github.com/teeolendo/climatecoin/↗The ULTIMATE Developers Guide To Polygon zkEVMhttps://www.youtube.com/watch?v=pkvgS26VR8E↗","Problem Statement: The challenge is to create the most innovative use of the Polygon zkEVM (zero-knowledge Ethereum Virtual Machine).
+
+Prize: $5,000 in total prize money, with up to 4 teams receiving $1,250 each.
+
+Qualification Criteria:
+1. Be Innovative: Participants are required to come up with novel and creative solutions using the Polygon zkEVM.
+2. Deploy to the zkEVM: Submissions should include the deployment of the project to the Polygon zkEVM. Mumbai can be used if the project requires a service provider not supported by Polygon zkEVM."
+"▼📈 Polygon zkEVM DeFi Challenge ⸺ $5,000Up to 4 teams will receive $1,250With the launch of the Polygon zkEVM, brand new rails were established that allow DeFi developers to get started with deploying on L2s. In this challenge, we are inviting participants to deploy a General DeFi application of any category to the Polygon zkEVM Testnet.Qualification RequirementsThe requirements are dead simple:
+- Develop a DeFi application.
+- Deploy the application on Polygon zkEVM Testnet / Mainnet
+- Integrate an OpenZeppelin library","Problem Statement: The problem statement is to develop and deploy a General DeFi application of any category on the Polygon zkEVM Testnet.
+
+Prize: The prize for this challenge is $5,000, with up to 4 teams receiving $1,250 each.
+
+Qualification Criteria:
+1. Develop a DeFi application.
+2. Deploy the application on the Polygon zkEVM Testnet or Mainnet.
+3. Integrate an OpenZeppelin library."
+"▼🔨 Don’t be a Tool, use a Polygon Tool ⸺ $4,000Up to 4 teams will receive $1,000We know that building a dApp that queries blockchain data can be cumbersome. With the Chain Indexer Framework you can unlock the true potential of EVM blockchains by seamlessly integrating them into your data infrastructure. Whether you are building real-time analytics, decentralised applications, or any other data-driven solution, this framework assists you in developing robust and efficient event-driven data pipelines on EVM blockchains.
+Some Sample Use-Cases:
+- Wallet Services: Blockchain indexers can help wallet providers offer more features like transaction history, balance history, and real-time updates.
+- dApp Backend: dApps often require real-time access to contract events, token transactions, and other on-chain activities. A data indexer can speed up this process considerably.
+- Analytics and Monitoring: Firms specialising in blockchain analytics use indexers to monitor activities like fraudulent transactions, smart contract interactions, and trends in token transfers.
+- Cross-Chain Services: For cross-chain swaps or interactions, indexers can offer data that facilitates more seamless integrations.
+- Oracles: Data indexers can support oracles by providing them with a more efficient way to access specific data points on the blockchain.
+- NFT Marketplaces: To track ownership changes, price histories, and various attributes of NFTs, data indexers are often used in the backend.Qualification RequirementsDeploy the Chain Indexer Framework and integrate it to a smart contract on Polygon zkEVM and provide links to your deployment and your deployed smart contract addresses.Links and ResourcesNpm install @maticnetwork/chain-indexer-frameworkhttps://github.com/0xPolygon/chain-indexer-framework↗Githubhttps://github.com/0xPolygon/chain-indexer-framework↗Wikihttps://wiki.polygon.technology/docs/tools/chain-indexer-framework/overview/↗","Problem Statement: Building a dApp that queries blockchain data can be cumbersome and time-consuming.
+
+Prize: $4,000, with up to 4 teams receiving $1,000 each.
+
+Qualification Criteria: 
+
+1. Deploy the Chain Indexer Framework and integrate it with a smart contract on Polygon zkEVM.
+2. Provide links to your deployment and deployed smart contract addresses.
+
+Additional Resources: 
+- Npm install @maticnetwork/chain-indexer-framework
+- Github: https://github.com/0xPolygon/chain-indexer-framework
+- Wiki: https://wiki.polygon.technology/docs/tools/chain-indexer-framework/overview/"
+"▼🏗️ dApp Launchpad ⸺ $1,000Up to 2 teams will receive $500The dApp Launchpad is a dApp and smart contract development tool tailored for the Polygon blockchain networks. It provides a set of required tools and templates for accelerating and / or enhancing the development of their unique decentralised applications designed on the Polygon ecosystem. This scaffold aims to streamline the process for developers, particularly those new to the web3 space, allowing them to quickly start, understand, and modify code for their projects.
+Functionalities are offered in a CLI tool to quickly initialise a fully-integrated Polygon dApp, create a development environment, and deploy everything to production.
+Run `npm install: @0xpolygon/polygon-dapp-scaffold`Qualification RequirementsBuild a dApp using the dapp Scaffold tool and deploy to a provider of your choice.
+Provide a link to your repo and to your deployed dAppLinks and ResourcesGithubhttps://github.com/0xPolygon/dapp-launchpad↗","Problem statement:
+The problem statement is to develop a dApp Launchpad, which is a tool for dApp and smart contract development on the Polygon blockchain networks. It aims to provide developers with the required tools and templates to accelerate the development process of their decentralised applications on the Polygon ecosystem.
+
+Prize:
+The prize is $1,000. Up to 2 teams will receive $500 each.
+
+Qualification criteria:
+To qualify for the prize, participants need to build a dApp using the dapp Scaffold tool and deploy it to a provider of their choice. They also need to provide a link to their repository and the deployed dApp."
+"▼🆔 Best use of Polygon ID to preserve user privacy ⸺ $5,000Up to 4 teams will receive $1,250Self-Sovereign Identity is the future. Use Polygon ID to represent identity-based information as verifiable credentials in your dapp so your users can prove access rights to dapp features without giving up their private data. Polygon ID is also excited to announce a brand new partnership with Dock.io that will allow you to securely extend the privacy of your Lens profile using Verifiable Credentials. Using Dock's REST API credentials can be issued in a few API calls. Along with issuing credentials application developers can use the API to manage issuer profiles and create and import data schemas.
+Dock's tooling also supports non-developers through it's no-code solution Dock Certs which provides the same functionality via a web interface.Qualification RequirementsBuild a full stack dApp that utilizes Polygon ID to issue decentralized identifiers and verifiable credentials. Your application should cover the full lifecycle of verifiable credentials, issuance, holding using the Polygon ID wallet and verification from your dApp.Links and ResourcesPolygon ID Documentationhttps://devs.polygonid.com/↗VC Gated Full Stack Dapphttps://github.com/oceans404/fullstack-polygon-id-vc-gated-dapp/tree/main↗Dock.io Demo Apphttps://github.com/docknetwork/polygonid-demo↗How to set up a Issuer Nodehttps://www.youtube.com/watch?v=19E-jLLRUO8&feature=youtu.be↗","Problem Statement: Develop a full stack decentralized application (dApp) that utilizes Polygon ID to issue decentralized identifiers and verifiable credentials. The application should cover the entire lifecycle of verifiable credentials, including issuance, holding, and verification from the dApp.
+
+Prize: $5,000. Up to four teams will receive $1,250 each.
+
+Qualification Criteria: The dApp should utilize Polygon ID and follow the documentation provided. The application should demonstrate the ability to issue decentralized identifiers and verifiable credentials, as well as support the verification process. Participants can refer to the provided resources for guidance and utilize Dock.io's REST API and tooling, including Dock Certs for non-developers."
+"▼🏆 Best Library / Framework ⸺ $5,000   ① $4,000        ② $1,000    This top-tier prize will be given to the best library and framework utilizing Arbitrum technology.","Problem Statement: The problem is to find the best library or framework that utilizes Arbitrum technology.
+
+Prize: The top-tier prize for this competition is $5,000, with a breakdown of $4,000 for the winner and $1,000 for the runner-up.
+
+Qualification Criteria: The library or framework must utilize Arbitrum technology."
+"▼🏆 Best Stylus Project ⸺ $5,000   ① $4,000        ② $1,000    For this prize, we're looking for the best project utilizing Stylus! Through the power of WebAssembly smart contracts, users can deploy programs written in their favorite programming languages, including Rust, C, and C++, to run alongside Solidity contacts on Arbitrum. It’s over an order-of-magnitude cheaper and is fully interoperable with the Ethereum Virtual Machine.","Problem Statement: The problem statement is to find the best project that utilizes Stylus, a platform that allows users to deploy programs written in different programming languages alongside Solidity contracts on Arbitrum.
+
+Prize: The prize for the best Stylus project is $5,000. The distribution of the prize is as follows: $4,000 for the first place winner and $1,000 for the second place winner.
+
+Qualification Criteria: Participants need to create a project that utilizes Stylus and demonstrates its capabilities. The project should make use of WebAssembly smart contracts and be able to run alongside Solidity contracts on Arbitrum. The programming languages that can be used include Rust, C, and C++. The project should also be cost-effective and fully interoperable with the Ethereum Virtual Machine."
+"▼🏆 🏆 Most Original ⸺ $2,500   ① $2,000        ② $500    We're looking for the most original project that is launched on Arbitrum!","Problem Statement: The challenge is to create and launch the most original project on Arbitrum.
+
+Prize: The Most Original project will win a cash prize of $2,500.
+
+Qualification Criteria: The project must be launched on Arbitrum."
+"▼🏆 Best Technology ⸺ $2,500   ① $2,000        ② $500    This prize will be given to the best technology that is built on Arbitrum!","Problem Statement: The problem statement is not clearly mentioned in the given information.
+
+Prize: The prize for the competition is $2,500, with a breakdown of $2,000 for the first-place winner and $500 for the second-place winner.
+
+Qualification Criteria: The technology must be built on Arbitrum to be eligible for the prize."
+"▼🏆 Pool Prize ⸺ $5,000Split evenly between all qualifying projectsThis prize is split equally amongst all qualifying submissions to Arbitrum!Qualification RequirementsSend your successful project submission that is integrated with Arbitrum.","Problem Statement: The problem is not explicitly mentioned in the statement.
+
+Prize: The prize for this competition is $5,000, which will be split evenly among all qualifying projects that are integrated with Arbitrum.
+
+Qualification Criteria: To qualify for the prize, participants need to submit a successful project that is integrated with Arbitrum."
+"▼💎 Build an Innovative Application on top of 1inch Network's Fusion API ⸺ $8,000   ① $4,000        ② $2,500        ③ $1,500    Build an innovative application that leverages the power of 1inch Network's Fusion API. Your application should provide unique functionalities and value-added features to users within the Defi ecosystem.
+Criteria:
+1 - Utilize the 1inch Network's Fusion API to access and interact with the Fusion protocol.
+2 - The utilization of Fusion API should have a meaningful purposeQualification RequirementsYour application should be an open-source project accompanied by clear documentation explaining its usage. Focus on demonstrating the unique value your application brings to the 1inch Network ecosystem while ensuring a seamless and secure user experience.Links and Resources1inch Network's Fusion API documentationhttps://docs.1inch.io/docs/fusion-swap/introduction↗","Problem Statement: Build an innovative application that leverages the power of 1inch Network's Fusion API to provide unique functionalities and value-added features to users within the Defi ecosystem.
+
+Prize: $8,000 prize, with $4,000 for the first place, $2,500 for the second place, and $1,500 for the third place.
+
+Qualification Criteria:
+1. Utilize the 1inch Network's Fusion API to access and interact with the Fusion protocol.
+2. The utilization of Fusion API should have a meaningful purpose.
+
+Additional Requirements:
+- The application should be an open-source project.
+- Clear documentation explaining the usage of the application.
+- Demonstrate the unique value the application brings to the 1inch Network ecosystem.
+- Ensure a seamless and secure user experience."
+"▼🪙 Build Innovative Solutions on top of 1inch Network's Token Plugins ⸺ $6,000   ① $3,000        ② $2,000        ③ $1,000    1inch recently announced new library that introduces an extendable and secure system for ERC20-based tokens. By subscribing an account to various plugins, users can dynamically enhance the functionality of their tokens. Technically plugins are a collection of smart contracts that track changes in ERC20 token balances and perform supplementary accounting tasks for those balances. They are particularly useful when you need to track, for example, token shares without actually transferring tokens to an accounting contract.
+Try to hack using such library. That is it.
+Criteria:
+1 - Use https://github.com/1inch/token-plugins
+2 - The utilization of token-plugins should have a meaningful purposeLinks and ResourcesToken plugins Repohttps://github.com/1inch/token-plugins↗Anton Bukov talk about token pluginshttps://www.youtube.com/watch?v=a9uCqWmH-HE↗","Problem Statement: The problem is to build innovative solutions using 1inch Network's Token Plugins.
+
+Prize: The prize for this challenge is $6,000, with $3,000 for the first place, $2,000 for the second place, and $1,000 for the third place.
+
+Qualification Criteria:
+1. Use the token-plugins library available at https://github.com/1inch/token-plugins.
+2. The utilization of token-plugins should serve a meaningful purpose."
+"▼🦄 Enhance your app with 1inch Developer Portal APIs ⸺ $6,000   ① $3,000        ② $2,000        ③ $1,000    1inch Developer Portal do have multiple APIs (Balances, Fiat Prices, Portfolio, Swap, Limit Order). Use any of it to enhance your project. Apps with the best use cases will be eligible for bounties Qualification Requirements1 - Use 1inch dev portal APIs (Any of it)
+2 - The utilization of 1inch Developer Portal should have a meaningful purposeLinks and Resources1inch dev portal APIshttp://portal.1inch.dev↗","Problem Statement: Enhance your app using the 1inch Developer Portal APIs.
+
+Prize: $6,000 in total, divided into three prizes: 
+① $3,000
+② $2,000
+③ $1,000
+
+Qualification Criteria: 
+1. Use any of the APIs provided by the 1inch Developer Portal (Balances, Fiat Prices, Portfolio, Swap, Limit Order).
+2. The utilization of the 1inch Developer Portal APIs should serve a meaningful purpose in your project."
+"▼🏆 Most unique projects in the Filecoin Ecosystem ⸺ $9,000   ① $3,000        ② $3,000        ③ $3,000    Best innovations that turn current web services and applications into more open, equitable, secure, and resilient. Using one or several decentralized technologies from Protocol Labs Network qualifies for this track.Qualifying tech: Filecoin, FVM (Filecoin Virtual Machine), NFT.Storage/Lighthouse.Storage, Filecoin Saturn. Bonus points for building out project ideas unique to the Filecoin Ecosystem!
+Qualification RequirementsAll projects using Qualifying tech, will be considered. List of ideas we are excited about:
+Programmatic Storage: Best solutions & tools built on/for FVM to enable programmatic data storage & retrieval, for data clients and/or storage providers on the Filecoin network
+    - DataDAOs: Build meaningful DataDAOs & DAO tooling solutions on FVM to enable curation, use, storage, analysis, monetization, and/or governance of valuable datasets using FVM DataDAO starter kit
+    - State/storage integration: Build services that retrieve, store and interact with small pieces of data on IPFS through FVM smart contracts. Bonus points for implementing storage and reward disbursement
+DeFi: Best DeFi tools and services built on FVM for token-holders and 3000+ storage providersLinks and ResourcesTech Stack Overview of all projectshttps://www.notion.so/ecosystem-wg/Getting-Started-With-Protocol-Labs-Tech-stack-d906467ce53b4acf84765e61863d9d85↗Latest workshops from Open Data Hackhttps://www.youtube.com/watch?v=iYcPLyD3JLQ&list=PLfEHHr3qexv_R_8bfgT1_5x4rN-rmd138&index=3↗Interplanetary Consensus Websitehttps://ipc.space/↗InterPlanetary Consenses Quick Starthttps://docs.ipc.space/quickstarts↗FVM Official Sitehttps://fvm.filecoin.io/↗FVM Quick Start Guidehttps://docs.filecoin.io/smart-contracts/fundamentals/erc-20-quickstart/↗FVM Hackathon Cheat Sheethttps://github.com/filecoin-project/awesome-filecoin/blob/main/fvm.md↗Filecoin Saturn Resourceshttps://docs.saturn.tech/↗Storage (on-ramps) Helpers Docs: NFT.Storagehttps://nft.storage/docs/↗Storage (on-ramps) Helpers Docs: Lighthouse.Storagehttps://www.lighthouse.storage/documentation↗","Problem Statement: The challenge is to develop unique projects in the Filecoin Ecosystem that turn current web services and applications into more open, equitable, secure, and resilient systems.
+
+Prize: The prize is $9,000, which will be divided into three awards of $3,000 each.
+
+Qualification Criteria: Projects must use one or several decentralized technologies from the Protocol Labs Network, including Filecoin, FVM (Filecoin Virtual Machine), NFT.Storage/Lighthouse.Storage, and Filecoin Saturn. Bonus points will be given for building projects ideas unique to the Filecoin Ecosystem.
+
+Specific Project Ideas:
+1. Programmatic Storage: Develop solutions and tools using FVM to enable programmatic data storage and retrieval for data clients and/or storage providers on the Filecoin network.
+2. DataDAOs: Build meaningful DataDAOs and DAO tooling solutions using FVM to facilitate curation, use, storage, analysis, monetization, and/or governance of valuable datasets using a FVM DataDAO starter kit.
+3. State/Storage Integration: Create services that interact with small pieces of data on IPFS through FVM smart contracts, providing storage and reward disbursement functionality. Bonus points for implementing storage and reward disbursement.
+4. DeFi: Develop DeFi tools and services on FVM for token-holders and more than 3,000 storage providers.
+
+Resources:
+- Tech Stack Overview of all projects
+- Latest workshops from Open Data Hack
+- Interplanetary Consensus Website
+- InterPlanetary Consenses Quick Start
+- FVM Official Site
+- FVM Quick Start Guide
+- FVM Hackathon Cheat Sheet
+- Filecoin Saturn Resources
+- Storage (on-ramps) Helpers Docs: NFT.Storage
+- Storage (on-ramps) Helpers Docs: Lighthouse.Storage"
+"▼🏊 Unique Projects in Filecoin Ecosystem (up to 15 teams) ⸺ $11,000Split evenly between all qualifying projectsPrize to be awarded up to 15 teams, capped at $1000 per team - for innovations that turn current web services and applications into more open, equitable, secure, and resilient. Using one or several decentralized technologies from Protocol Labs Network qualifies for this track.
+Qualifying tech: Filecoin, FVM (Filecoin Virtual Machine), NFT.Storage/Lighthouse.Storage, Filecoin Saturn. Bonus points for building out project ideas unique to the Filecoin Ecosystem!
+Note: For the pool prize, the cap is $1000 per team. If less than 11 teams qualify for the pool prize, each team gets $1000.Qualification RequirementsAll projects using Qualifying tech, will be considered. List of ideas we are excited about:
+- Programmatic Storage: Best solutions & tools built on/for FVM to enable programmatic data storage & retrieval, for data clients and/or storage providers on the Filecoin network
+- DataDAOs: Build meaningful DataDAOs & DAO tooling solutions on FVM to enable curation, use, storage, analysis, monetization, and/or governance of valuable datasets using FVM DataDAO starter kit
+- State/storage integration: Build services that retrieve, store and interact with small pieces of data on IPFS through FVM smart contracts. Bonus points for implementing storage and reward disbursement
+- Best DeFi tools and services built on FVM for token-holders and 3000+ storage providersLinks and ResourcesLatest Workshops from Open Data Hackhttps://www.youtube.com/watch?v=iYcPLyD3JLQ&list=PLfEHHr3qexv_R_8bfgT1_5x4rN-rmd138&index=3↗FVM Hackathon Cheat Sheethttps://github.com/filecoin-project/awesome-filecoin/blob/main/fvm.md↗Filecoin Saturn Resourceshttps://docs.saturn.tech/↗Storage (on-ramps) Helper Docs: NFT.Storagehttps://nft.storage/docs/↗Storage (on-ramps) Helper Docs: Lighthouse.Storagehttps://www.lighthouse.storage/documentation↗","Problem Statement: The problem statement is to encourage projects that turn current web services and applications into more open, equitable, secure, and resilient using decentralized technologies from the Protocol Labs Network.
+
+Prize: The prize for this track is a pool of $11,000, split evenly between all qualifying projects. The prize is capped at $1000 per team.
+
+Qualification Criteria: To qualify for the prize, projects must use one or several decentralized technologies from the Protocol Labs Network, including Filecoin, FVM (Filecoin Virtual Machine), NFT.Storage/Lighthouse.Storage, and Filecoin Saturn. Bonus points are given for building project ideas unique to the Filecoin Ecosystem. All projects using these qualifying technologies will be considered.
+
+List of Ideas: The organizers are excited about several project ideas, including programmatic storage solutions using FVM, building DataDAOs and DAO tooling on FVM for datasets, services that retrieve, store, and interact with data on IPFS through FVM smart contracts, and DeFi tools and services built on FVM. Bonus points are given for implementing storage and reward disbursement in these projects."
+"▼🚀 Deploy on Scroll ⸺ $7,000Split evenly between all qualifying projectsThis should just mean changing your RPC!\\\* Try out Scroll's next-generation zk-rollup by deploying your project's smart contracts on the Scroll testnet on Sepolia. With Scroll's zkEVM, users will benefit from lower costs, shorter block times, and higher throughput -- without you needing to modify your Solidity code.
+Qualification RequirementsDeploy and verify your smart contract on scroll.
+Make sure to inlcude both the contract address and link to scroll-etherscan in your github read me.","Problem Statement: The problem is to deploy and test smart contracts on the Scroll testnet using Scroll's zkEVM technology.
+
+Prize: The prize is $7,000, which will be split evenly among all qualifying projects.
+
+Qualification Criteria: To qualify for the prize, participants need to deploy and verify their smart contracts on Scroll's testnet. They must include both the contract address and a link to the Scroll-Etherscan in their GitHub readme file."
+"▼🥇 Best on Scroll ⸺ $10,000   ① $1,000        ② $1,000        ③ $1,000        ④ $1,000        ⑤ $1,000        ⑥ $1,000        ⑦ $1,000        ⑧ $1,000        ⑨ $1,000        ⑩ $1,000    You're here to build the latest in greatest in web3 on Ethereum — we want to see it deployed on Scroll. Use Scroll's Sepolia Testnet for your deployment of a novel DeFi application — we're compatible with the EVM at the bytecode level, so all your Solidity, Vyper, or YUL should just work with the change of an RPC address.Qualification Requirements- Project contracts must be deployed on Scroll Sepolia and verified on the Scroll Etherscan
+- Add the contract address and link to scroll-etherscan in your Github ReadMe!
+- Project must have a working flow
+- Project that excite us, include some of the following:
+    - Solve a tangible problem or build a relevant use usecase
+    - Provide value to developers/community in terms of public good
+- ""super-nerdy"" not necessarily product-market fit, but a cool geeky project","Problem Statement: Build the latest and greatest web3 application on Ethereum, deployed on Scroll's Sepolia Testnet, focusing on a novel DeFi application.
+
+Prize: The Best on Scroll prize is $10,000, with 10 individual prizes of $1,000 each.
+
+Qualification Criteria:
+1. Project contracts must be deployed on Scroll Sepolia and verified on the Scroll Etherscan platform.
+2. The contract address and link to Scroll-Etherscan must be added in the project's GitHub ReadMe.
+3. The project must have a working flow.
+4. Projects that solve a tangible problem or build a relevant use case, and provide value to developers and the community in terms of public good are preferred.
+5. ""Super-nerdy"" projects are encouraged, with an emphasis on cool geeky ideas, rather than solely focusing on product-market fit."
+"▼🏆 Best overall use of Waku ⸺ $4,000This prize will be given to the most impressive project using Waku to solve a communication challenge
+Qualification RequirementsTraditional chat-only applications will not be considered for the prize, although adding chat functions as a feature will not disqualify your project.","Problem Statement: Create an impressive project using Waku to solve a communication challenge.
+
+Prize: $4,000 for the best overall use of Waku.
+
+Qualification Criteria: Traditional chat-only applications will not be considered for the prize. However, adding chat functions as a feature will not disqualify the project."
+"▼🥷 Best privacy-focused project using Waku ⸺ $1,500This prize will be given to the most impressive privacy-focused project using Waku to solve a communication challenge.Qualification RequirementsTraditional chat-only applications will not be considered for the prize, although adding chat functions as a feature will not disqualify your project.","Problem statement: Develop a privacy-focused project using Waku to address a communication challenge.
+
+Prize: $1,500 will be awarded to the most impressive project.
+
+Qualification criteria: Traditional chat-only applications will not be considered for the prize, but projects that add chat functions as a feature will still be eligible."
+"▼🤝 Best game or marketplace using Waku ⸺ $1,500This prize will be given to the most impressive game or a marketplace project using Waku to solve a communication challenge.Qualification RequirementsTraditional chat-only applications will not be considered for the prize, although adding chat functions as a feature will not disqualify your project.","Problem Statement: Create the best game or marketplace project using Waku to solve a communication challenge.
+
+Prize: $1,500
+
+Qualification Criteria: The project must use Waku to solve a communication challenge. Traditional chat-only applications will not be considered for the prize, although adding chat functions as a feature will not disqualify the project."
+"▼🚀 Most innovative use of Waku ⸺ $1,500This prize will be given to the most innovative use of Waku to solve a communication challenge.Qualification RequirementsTraditional chat-only applications will not be considered for the prize, although adding chat functions as a feature will not disqualify your project.","Problem Statement: The problem is to find the most innovative use of Waku to solve a communication challenge.
+
+Prize: The prize is $1,500.
+
+Qualification Criteria: Traditional chat-only applications will not be considered for the prize. However, projects that add chat functions as a feature will not be disqualified."
+"▼🗳️ Best network state goods using Waku ⸺ $1,500Waku serves as the communications layer for the Logos technology stack. Bring us one step closer to building a network state by hacking a key communications solution using one of the Waku protocols.Qualification RequirementsTraditional chat-only applications will not be considered for the prize, although adding chat functions as a feature will not disqualify your project.","Problem Statement: Develop a key communications solution using one of the Waku protocols to contribute towards building a network state.
+
+Prize: $1,500
+
+Qualification Criteria: Traditional chat-only applications will not qualify for the prize, however, adding chat functions as a feature will not disqualify the project."
+"▼🏆 Powerloom Master ⸺ $3,000Recognizing the project that demonstrates the highest level of innovation, impact, and technical excellence using Powerloom.
+Each project will be rated by the team and assigned a score between 1 - 10 (separate for Track 1 and Track 2). There will be a cumulative dashboard for the top prize of $3,000 with a score calculated as `""1.5 * track1score"" and ""track2score"".Qualification Requirements- Must leverage Powerloom's snapshotter node or API.
+- Showcase exceptional creativity, impact, and technical implementation.","Problem Statement: The problem statement is not explicitly mentioned in the given information.
+
+Prize: The prize for the Powerloom Master competition is $3,000.
+
+Qualification Criteria:
+- Must leverage Powerloom's snapshotter node or API.
+- Showcase exceptional creativity, impact, and technical implementation.
+- Each project will be rated by the team and assigned a score between 1 - 10 for Track 1 and Track 2.
+- The cumulative dashboard will calculate the top prize of $3,000 based on the scores, using the formula ""1.5 * track1score"" and ""track2score""."
+"▼🚀 Data Dynamo ⸺ $3,000   ① $2,000        ② $1,000    Awarded to projects that excel in generating data through Powerloom's snapshotter node.Qualification Requirements- Effective use of the snapshotter node.
+- Demonstrated creativity and utility in leveraging data.","Problem Statement: The Data Dynamo competition aims to identify and reward projects that excel in generating data through Powerloom's snapshotter node.
+
+Prize: The total prize pool for the Data Dynamo competition is $3,000, with $2,000 awarded to the first prize winner and $1,000 awarded to the second prize winner.
+
+Qualification Criteria: To be eligible for the Data Dynamo competition, participants must meet the following requirements:
+1. Effective use of the snapshotter node: Projects should demonstrate a thorough understanding of how to utilize Powerloom's snapshotter node effectively.
+2. Demonstrated creativity and utility in leveraging data: Participants are expected to showcase innovative and practical applications of data leveraging, highlighting creativity and usefulness in their projects."
+"▼🌐 Data Maestro ⸺ $3,000   ① $2,000        ② $1,000    Recognizing projects that leverage Powerloom's data to build impactful and user-friendly applications.Qualification Requirements- Innovative use of Powerloom-generated data.
+- User-friendly and impactful application development.","Problem Statement: The Data Maestro competition aims to recognize projects that use Powerloom's data to develop impactful and user-friendly applications.
+
+Prize: The winner of the competition will receive a prize of $3,000, while the runner-up will receive $2,000 and the second runner-up will receive $1,000.
+
+Qualification Criteria: To qualify for the competition, participants must meet the following requirements: 
+1. Innovative use of Powerloom-generated data.
+2. Development of a user-friendly and impactful application."
+"▼💡 Powerloom Contributor ⸺ $1,000Up to 4 teams will receive $250Awarded to individuals or teams contributing meaningfully to Powerloom's ecosystem, not limited to the top positions in tracks.Qualification Requirements- Significant contribution to Powerloom's development or community.
+- Not restricted to track winners.","Problem Statement: Powerloom is seeking individuals or teams who have made significant contributions to their ecosystem.
+
+Prize: The prize is $1,000, to be divided among up to 4 teams, with each team receiving $250.
+
+Qualification Criteria: To qualify for the prize, individuals or teams must have made a meaningful contribution to Powerloom's development or community. It is not necessary to be a winner in any specific track, as the prize is not limited to top positions."
+"▼📈 Best DeFi Project ⸺ $2,500Up to 2 teams will receive $1,250Inspire the next frontier of DeFi on Mantle. Whether it's integrating with real-world assets (RWAs), creating a novel lending or staking protocol, or designing a new liquidity mining mechanism, your project should highlight the limitless potential of DeFi on Mantle.Qualification Requirements1. The submission must be deployed on Mantle testnet or mainnet (include a link to smart contract deployed on Mantle Explorer)
+2. A video demo and GitHub repo must be submitted.","Problem Statement: The problem statement for this competition is to inspire the next frontier of decentralized finance (DeFi) on the Mantle platform. Participants are encouraged to create innovative projects that showcase the limitless potential of DeFi on Mantle, such as integrating with real-world assets, developing novel lending or staking protocols, or designing new liquidity mining mechanisms.
+
+Prize: The prize for the Best DeFi Project is $2,500. Additionally, up to two teams will each receive $1,250.
+
+Qualification Criteria:
+1. The submission must be deployed on the Mantle testnet or mainnet. Participants need to include a link to the smart contract deployed on the Mantle Explorer.
+2. Participants must provide a video demonstration of their project and submit the corresponding GitHub repository."
+"▼👾 Best NFT, Social, or Gaming Project ⸺ $2,500Build an engaging NFT, Social or Gaming project with innovative onchain solutions. Ideas:
+- NFT & AR use cases
+- Location-based minting
+- Arcade and mini-games
+- Games on Telegram
+- Mobile-first games
+- Classic games (chess, backgammon)
+- Gamification and leaderboards
+- Chat platformsQualification Requirements1. The submission must be deployed on Mantle testnet or mainnet (include a link to smart contract deployed on Mantle Explorer)
+2. A video demo and GitHub repo must be submitted","Problem Statement: Create an engaging NFT, Social, or Gaming project with innovative onchain solutions.
+
+Prize: $2,500
+
+Qualification Criteria:
+1. The submission must be deployed on Mantle testnet or mainnet (include a link to the smart contract deployed on Mantle Explorer).
+2. A video demo and GitHub repo must be submitted."
+"▼📲 Best UX ⸺ $2,500One of the most challenging problems in Web3 is creating an intuitive and seamless User Experience for dApps. Build a dApp that raises the bar for UX in some way. Make sure to explain in your submission in detail what you’ve done to make UX more accessible. Ideas:
+- Create a user-friendly mobile application or PWA
+- Design a seamless onboarding flow for first-time crypto users
+- Develop an adaptive interface that caters to both novice and expert users
+- Gasless transactions
+- Walletless logins
+- Web2-like application experienceQualification Requirements1. The submission must be deployed on Mantle testnet or mainnet (include a link to smart contract deployed on Mantle Explorer)
+2. A video demo and GitHub repo must be submitted","Problem Statement: The problem is creating an intuitive and seamless User Experience (UX) for dApps in the Web3 space.
+
+Prize: The prize for this challenge is $2,500.
+
+Qualification Criteria:
+- The submission must be deployed on Mantle testnet or mainnet, and a link to the smart contract deployed on Mantle Explorer must be provided.
+- A video demo of the dApp and a GitHub repository must be submitted."
+"▼🛠 Best Infrastructure & Tooling Project ⸺ $2,500Drive the future of the Ethereum ecosystem with tools that enhance the developer experience. We're looking for inventive solutions that simplify, optimize, and supercharge development on Ethereum, using Mantle's infrastructure.
+Ideas:
+- Build a visual smart contract builder that simplifies the creation of complex contract logic
+- Develop an analytics tool that provides insights into dApp performance and user interactions
+- Create a library that facilitates seamless integrations for Ethereum applications across various L2sQualification Requirements- The project must be integrated with Mantle in some way (Please indicate how the project works on Mantle. Include a link to explorer if a smart contract is deployed on Mantle)
+- A video demo and GitHub repo must be submitted","Problem Statement: The problem is the need for inventive solutions to enhance the developer experience on Ethereum by simplifying, optimizing, and supercharging development using Mantle's infrastructure.
+
+Prize: The prize for the Best Infrastructure & Tooling Project is $2,500.
+
+Qualification Criteria:
+- The project must be integrated with Mantle in some way.
+- The project must indicate how it works on Mantle and include a link to the explorer if a smart contract is deployed on Mantle.
+- A video demo and GitHub repo must be submitted."
+"▼🥇 Best dApps on Celo Blockchain ⸺ $6,000   ① $3,000        ② $2,000        ③ $1,000    Show us your best decentralized application build for real world use cases, deployed on Celo!Qualification Requirements- Contracts must be deployed on Alfajores or Mainnet
+- Demo to someone on the Celo team during Sponsor Judging
+- Mention smart contract addresses of all contracts deployed on Celo in your top-level project README, also Verify them on Celoscan or Celo Explorer.","Problem Statement: Create the best decentralized application (dApp) on the Celo blockchain for real-world use cases.
+
+Prize: The total prize pool is $6,000, with the following breakdown:
+1st place: $3,000
+2nd place: $2,000
+3rd place: $1,000
+
+Qualification Criteria:
+1. Contracts must be deployed on the Alfajores or Mainnet Celo network.
+2. Demonstration of the dApp to a member of the Celo team during the sponsor judging phase.
+3. Mention the smart contract addresses of all deployed contracts on Celo in the top-level project README.
+4. Verify the smart contracts on Celoscan or Celo Explorer."
+"▼📱 Best Mobile dApp on Celo ⸺ $2,000Build the best mobile dApp integrating Opera MiniPay or Valora Wallet hooks. MiniPay is a stablecoin-based non-custodial wallet that allows you to send and receive funds instantly using just a phone number. Check out the list of Ideas and how to Get Started Building.Qualification RequirementsIn order to qualify for this bounty, projects must be demo'ed using MiniPay Site Tester. Learn about the MiniPay tester here and come meet the Celo Devs team at our booth if you have any questions.
+- Contracts must be deployed on Alfajores or Mainnet
+- Demo to someone on the Celo team during Sponsor Judging
+- Mention smart contract addresses of all contracts deployed on Celo in your top-level project README, also Verify them on Celoscan or Celo Explorer.
+If you are building on MiniPay.
+- Project must be demo'ed using MiniPay Site Tester
+If you are building Valora Hooks
+- Project must be demo'ed in the latest version of Valora (or if you make modifications to Valora, a build on your local machine). If you're using Valora hooks, see the Live Preview in Valora feature.Links and ResourcesMiniPay Wallethttps://www.opera.com/products/minipay↗MiniPay Testerhttps://docs.celo.org/developer/build-on-minipay#how-to-test-your-dapp-in-minipay↗Build for MiniPayhttps://docs.celo.org/developer/build-on-minipay↗Valora Hookshttps://docs.valora.xyz/hooks↗Valora Hooks Exampleshttps://github.com/valora-inc/hooks/tree/main/src/apps↗","Problem Statement:
+The problem is to build the best mobile dApp integrating Opera MiniPay or Valora Wallet hooks on the Celo blockchain. The dApp should allow users to send and receive funds instantly using just a phone number.
+
+Prize:
+The prize for this bounty is $2,000.
+
+Qualification Criteria:
+1. Contracts must be deployed on the Alfajores or Mainnet.
+2. The project must be demo'ed using the MiniPay Site Tester.
+3. During the Sponsor Judging, the project should be demoed to someone on the Celo team.
+4. The smart contract addresses of all contracts deployed on Celo should be mentioned in the top-level project README, and also verified on Celoscan or Celo Explorer.
+
+If building on MiniPay:
+- The project must be demo'ed using the MiniPay Site Tester.
+
+If building Valora Hooks:
+- The project must be demo'ed in the latest version of Valora or a build on your local machine, if modifications are made to Valora.
+- If using Valora hooks, see the Live Preview in Valora feature.
+
+Additional Resources:
+- MiniPay Wallet: [link](https://www.opera.com/products/minipay)
+- MiniPay Tester: [link](https://docs.celo.org/developer/build-on-minipay#how-to-test-your-dapp-in-minipay)
+- Build for MiniPay: [link](https://docs.celo.org/developer/build-on-minipay)
+- Valora Hooks: [link](https://docs.valora.xyz/hooks)
+- Valora Hooks Examples: [link](https://github.com/valora-inc/hooks/tree/main/src/apps)"
+"▼🏆 Best dApp utilizing Account Abstraction or SocialConnect on Celo ⸺ $2,000Build a dApp that improves user experience for onboarding the next billion users using SocialConnect or Account Abstraction on Celo.
+SocialConnect is an open source protocol that maps off-chain personal identifiers (such as phone numbers, twitter handles, etc.) to on-chain account addresses.Qualification RequirementsIf using Account Abstraction
+*Mention your ""Smart Account Factory address"" or/and ""Paymaster Address"" or/and ""Smart Account"" created using some factory in your project README.
+*Mention a Tx Hash/Link performed using AA in your project README.
+If you are using SocialConnect
+*Mention the Issuer address you are using for lookups in your project README.
+*If you are using your own Issuer address, mention that in the README.
+For all bounties:
+* Contracts must be deployed on Alfajores or Mainnet
+* Demo to someone on the Celo team during Sponsor Judging
+* Mention smart contract addresses of all contracts deployed on Celo in your top-level project README, also Verify them on Celoscan or Celo Explorer.Links and ResourcesSocialConnect Quick Starthttps://github.com/celo-org/social-connect#-quickstart↗","Problem Statement: Build a dApp that improves user experience for onboarding the next billion users using SocialConnect or Account Abstraction on Celo.
+
+Prize: $2,000
+
+Qualification Criteria:
+- For Account Abstraction: Mention the ""Smart Account Factory address"" or/and ""Paymaster Address"" or/and ""Smart Account"" created using some factory in your project README. Also, mention a Tx Hash/Link performed using AA in your project README.
+- For SocialConnect: Mention the Issuer address you are using for lookups in your project README. If using your own Issuer address, mention that in the README.
+- Contracts must be deployed on Alfajores or Mainnet.
+- Demo the dApp to someone on the Celo team during Sponsor Judging.
+- Mention smart contract addresses of all contracts deployed on Celo in your top-level project README and verify them on Celoscan or Celo Explorer.
+
+Resources:
+- SocialConnect Quick Start: https://github.com/celo-org/social-connect#-quickstart"
+"▼🏆 SAFE{CORE} AA SDK ⸺ $4,000   ① $2,000        ② $2,000    Integrate any of the following Kits inside the Safe{Core} SDK to build a flow that abstracts complex web3 related logic from users.Qualification RequirementsIt is required integrating at least two of the existing kits from the Safe{Core} Account Abstraction SDK. Projects integrating only one of the kits will not qualify.
+- Auth Kit: To login with an email and generate an EOA that can be used as the owner of a Safe.
+- Protocol Kit: To deploy Safes, configure them and execute transactions.
+- Relay Kit: To relay Safe transactions avoiding paying fees, etc.
+- API Kit: To interact with our Transaction Service and collect signatures from the owners.
+- Onramp Kit: To fund a Safe account with fiat money.
+Check this demo app to get an overview of what can be done: https://github.com/5afe/account-abstraction-demo-ui.Links and ResourcesSDK Docshttps://docs.safe.global/safe-core-aa-sdk/safe-core-sdk↗SDK Repohttps://github.com/safe-global/safe-core-sdk↗SDK Demohttps://github.com/5afe/account-abstraction-demo-ui↗SafeAuth Demohttps://github.com/safe-global/safe-core-sdk/tree/main/packages/auth-kit/example↗","Problem Statement: The problem is to integrate at least two kits from the Safe{Core} Account Abstraction SDK to build a flow that abstracts complex web3 related logic from users.
+
+Prize: The prize for this challenge is $4,000, with $2,000 awarded for each of the two selected kits.
+
+Qualification Criteria: To qualify for the prize, participants must integrate at least two kits from the Safe{Core} Account Abstraction SDK. Projects that integrate only one kit will not be eligible. The available kits to integrate are:
+1. Auth Kit: To login with an email and generate an EOA that can be used as the owner of a Safe.
+2. Protocol Kit: To deploy Safes, configure them, and execute transactions.
+3. Relay Kit: To relay Safe transactions, avoiding paying fees, etc.
+4. API Kit: To interact with the Transaction Service and collect signatures from the owners.
+5. Onramp Kit: To fund a Safe account with fiat money.
+
+To get an overview of what can be done, participants can refer to the provided demo app and explore the SDK documentation, repository, and demo links."
+"▼🏆 SAFE{CORE} PROTOCOL ⸺ $4,000   ① $2,000        ② $2,000    Check this demo app to get an overview of what can be done: https://github.com/5afe/safe-core-protocol-demoQualification RequirementsIt is required integrating or implementing any part of the Safe{Core} Protocol.Links and ResourcesSafe{Core} Protocolhttps://github.com/safe-global/safe-core-protocol↗Safe{Core} Protocol Demohttps://github.com/5afe/safe-core-protocol-demo↗","Problem Statement: The problem statement is to integrate or implement any part of the Safe{Core} Protocol.
+
+Prize: The total prize pool for this challenge is $4,000, with two prizes of $2,000 each.
+
+Qualification Criteria: To qualify for the challenge, participants need to integrate or implement any part of the Safe{Core} Protocol. The protocol and a demo app can be found on the provided links."
+"▼🏆 Safe 4337 Module integrated with Pimlico ⸺ $2,000Integrate the Safe 4337 Module and using it with the permissionless.js library from Pimlico.Qualification RequirementsIt is required integrating the Safe 4337 Module and using it with the permissionless.js library from Pimlico.Links and ResourcesPimlico Docshttps://docs.pimlico.io/permissionless/how-to/accounts/use-safe-account↗","Problem Statement: Integrate the Safe 4337 Module with the permissionless.js library from Pimlico.
+
+Prize: $2,000
+
+Qualification Criteria: Candidates must integrate the Safe 4337 Module and use it with the permissionless.js library from Pimlico."
+"▼🏆 Best use of Chainlink CCIP ⸺ $2,000Up to 2 teams will receive $1,000This prize will be awarded to the best two projects that meaningfully use Chainlink CCIP.
+The Chainlink Cross-Chain Interoperability Protocol (CCIP) provides a single simple interface through which dApps and web3 entrepreneurs can securely meet all their cross-chain needs, including token transfers and arbitrary messaging.Qualification Requirements- Using Chainlink CCIP inside your smart contracts is required
+- Each project must use Chainlink CCIP in some form to make a state change on a blockchain, otherwise it will not be eligible. This means that a front end simply reading from Chainlink data feeds doesn't countLinks and ResourcesCCIP Documentationhttps://docs.chain.link/ccip↗Hackathon Resourceshttps://docs.chain.link/resources/hackathon-resources↗Developer Hub - CCIP Resourceshttps://dev.chain.link/products/ccip↗Brownie Starter Kitshttps://github.com/smartcontractkit/chainlink-mix↗dApp Tools Starter Kitshttps://github.com/smartcontractkit/dapptools-starter-kit↗Hardhat Starter Kitshttps://github.com/smartcontractkit/hardhat-starter-kit↗Truffle Starter Kitshttps://github.com/smartcontractkit/truffle-starter-kit↗","Problem Statement: The problem statement involves the application of Chainlink Cross-Chain Interoperability Protocol (CCIP) in smart contracts to enable secure cross-chain transactions and messaging for dApps and web3 entrepreneurs.
+
+Prize: The prize for the best use of Chainlink CCIP is $2,000, which will be divided among the top two teams, with each team receiving $1,000.
+
+Qualification Criteria:
+1. Using Chainlink CCIP inside smart contracts is mandatory.
+2. The project must utilize Chainlink CCIP in some manner to initiate a state change on a blockchain. Projects that solely rely on reading data from Chainlink data feeds will not be eligible. 
+
+Additional Resources:
+1. CCIP Documentation: A detailed guide to understand and implement Chainlink CCIP. [Link](https://docs.chain.link/ccip)
+2. Hackathon Resources: Additional resources for the hackathon provided by Chainlink. [Link](https://docs.chain.link/resources/hackathon-resources)
+3. Developer Hub - CCIP Resources: Resources specifically related to Chainlink CCIP on the developer hub. [Link](https://dev.chain.link/products/ccip)
+4. Brownie Starter Kits: Starter kits for developing with Chainlink using the Brownie development framework. [Link](https://github.com/smartcontractkit/chainlink-mix)
+5. dApp Tools Starter Kits: Starter kits for developing dApps with Chainlink using the dApp Tools development framework. [Link](https://github.com/smartcontractkit/dapptools-starter-kit)
+6. Hardhat Starter Kits: Starter kits for developing with Chainlink using the Hardhat development framework. [Link](https://github.com/smartcontractkit/hardhat-starter-kit)
+7. Truffle Starter Kits: Starter kits for developing with Chainlink using the Truffle development framework. [Link](https://github.com/smartcontractkit/truffle-starter-kit)"
+"▼🏆 Best use of Chainlink Functions ⸺ $2,000Up to 2 teams will receive $1,000This prize will be awarded to the best two projects that meaningfully use Chainlink Functions.
+Chainlink Functions can help you to build a dApp that pulls (or pushes) data connecting to an external API, this could be a public or private API, a SaaS app, any IoT device, or an enterprise system. In addition to off-chain data, it could utilize off-chain computations on the data as well (for example, aggregate data and put on-chain or connect to decentralized storage systems such as IPFS).Qualification Requirements- Using Chainlink Functions inside your smart contracts is required. 
+- Each project must use Chainlink Functions in some form to make a state change on a blockchain, otherwise it will not be eligible. This means that a front end simply reading from Chainlink data feeds doesn't count.
+Links and ResourcesChainlink Functions Docshttps://docs.chain.link/chainlink-functions↗Developer Hub - Functions Resourceshttps://dev.chain.link/products/functions↗Hackathon Resourceshttps://docs.chain.link/resources/hackathon-resources↗Brownie Starter Kitshttps://github.com/smartcontractkit/chainlink-mix↗dApp Tools Starter Kitshttps://github.com/smartcontractkit/dapptools-starter-kit↗Hardhat Starter Kitshttps://github.com/smartcontractkit/hardhat-starter-kit↗Truffle Starter Kitshttps://github.com/smartcontractkit/truffle-starter-kit↗","Problem Statement: Build a dApp that uses Chainlink Functions to pull or push data from an external API, SaaS app, IoT device, or enterprise system. The dApp should also utilize off-chain computations on the data.
+
+Prize: $2,000, with $1,000 awarded to the best two projects that meaningfully use Chainlink Functions.
+
+Qualification Criteria: 
+- Use Chainlink Functions inside smart contracts.
+- Make a state change on a blockchain using Chainlink Functions.
+- Projects that only read from Chainlink data feeds without making a state change are not eligible."
+"▼🏆 Best use of other Chainlink Services ⸺ $1,000This prize will be awarded to the best project that uses VRF, Automation, PoR, Data Feeds or Data StreamsQualification Requirements- Using Chainlink Data Feeds, Chainlink Data Streams, Chainlink VRF, Chainlink Proof of Reserves or Chainlink Automation inside your smart contracts is required. 
+- Each project must use Chainlink in some form to make a state change on a blockchain, otherwise it will not be eligible. This means that a front end simply reading from Chainlink data feeds doesn't count.
+- It must be possible for the judges to find the Chainlink usage in your code. Only the intention to use is not valid.Links and ResourcesDeveloper Hub - Data Resourceshttps://dev.chain.link/products/data↗Developer Hub - Automation Resourceshttps://dev.chain.link/products/automation↗Developer Hub - VRF Resourceshttps://dev.chain.link/products/vrf↗Developer Hub - General Resourceshttps://dev.chain.link/products/general↗Chainlink Docshttps://docs.chain.link/↗Hackathon Resourceshttps://docs.chain.link/resources/hackathon-resources↗Brownie Starter Kitshttps://github.com/smartcontractkit/chainlink-mix↗dApps Tools Starter Kitshttps://github.com/smartcontractkit/dapptools-starter-kit↗Hardhat Starter Kitshttps://github.com/smartcontractkit/hardhat-starter-kit↗Truffle Starter Kitshttps://github.com/smartcontractkit/truffle-starter-kit↗","Problem Statement: The problem is to create the best project that utilizes Chainlink services such as VRF, Automation, Proof of Reserves (PoR), Data Feeds, or Data Streams.
+
+Prize: The prize for this challenge is $1,000.
+
+Qualification Criteria:
+- The project must incorporate Chainlink Data Feeds, Data Streams, VRF, Proof of Reserves, or Automation in the smart contracts.
+- Chainlink must be used to make a state change on the blockchain. Simply reading from Chainlink data feeds without using it to make changes is not sufficient.
+- The judges should be able to easily identify the usage of Chainlink in the source code. Merely intending to use it is not enough."
+"▼🏆 Best use of Anon Aadhaar SDK ⸺ $8,000   ① $4,000        ② $2,500        ③ $1,500    This prize will reward the best apps built with the Anon Aadhaar SDK. Qualification Requirements🏆 Calling all innovators! We're seeking the best Anon Aadhaar-integrated apps. Show off your technical prowess, exceptional UX/UI, and problem-solving capabilities. The top implementations using the Anon Aadhaar SDK stand to win rewards! Ready to showcase your app's brilliance?Links and ResourcesDocumentationhttps://anon-aadhaar-documentation.vercel.app/docs/intro↗Github Repohttps://github.com/privacy-scaling-explorations/anon-aadhaar↗Idea listhttps://pse-team.notion.site/Cool-ideas-to-build-with-Anon-Aadhaar-fd4c76d28c244ca1b020c8a7db602728?pvs=4↗","Problem Statement: The problem statement is seeking the best Anon Aadhaar-integrated apps.
+
+Prize: The prize for the best use of Anon Aadhaar SDK is $8,000, with the 1st place winner receiving $4,000, 2nd place receiving $2,500, and 3rd place receiving $1,500.
+
+Qualification Criteria: The qualification requirements include showcasing technical prowess, exceptional UX/UI, and problem-solving capabilities in the implementation of the Anon Aadhaar SDK. Innovators and developers are encouraged to participate and submit their apps."
+"▼📱 Best implementation of Anon Aadhaar on mobile ⸺ $1,000This prize celebrates the most outstanding mobile native implementation of the Anon Aadhaar protocol.Qualification RequirementsProjects will be judged based on:
+- Technical implementation excellence
+- Demonstrated efficiency in proving time
+- Exceptional UX/UI design","Problem statement: Develop the best mobile native implementation of the Anon Aadhaar protocol.
+
+Prize: $1,000
+
+Qualification criteria:
+- Technical implementation excellence
+- Demonstrated efficiency in proving time
+- Exceptional UX/UI design"
+"▼🌏 Best social good build with Anon Aadhaar ⸺ $1,000🌟 Attention developers! We've got an exciting opportunity for you. Will we reward the project with the most social impact using Anon Aadhaar.
+Qualification RequirementsAnon Aadhaar Use: Effective integration for impact.
+Social Impact Potential: Measureable and sustainable change.","Problem Statement: Find the best social good build using Anon Aadhaar.
+
+Prize: $1,000.
+
+Qualification Criteria:
+1. Anon Aadhaar Use: The project must effectively integrate the use of Anon Aadhaar.
+2. Social Impact Potential: The project should have measurable and sustainable change, indicating its potential for social impact."
+"▼🔔 Best Use of Push Protocol ⸺ $8,000   ① $2,500        ② $2,500        ③ $1,500        ④ $1,500    𝟭.  𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝗕𝗼𝘂𝗻𝘁𝘆
+    We seek the most ingenious solutions built using the Push Protocol. Challenge the norms and serve up your most creative implementations.  
+𝟮. 𝗣𝘂𝘀𝗵 𝗖𝗵𝗮𝘁 𝗖𝗼𝗻𝗱𝗶𝘁𝗶𝗼𝗻𝗮𝗹 𝗚𝗮𝘁𝗶𝗻𝗴 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗗𝗔𝗽𝗽𝘀
+    Showcase the potential of the Push by integrating its Conditional Gating feature into their dapps. This feature will allow dapps to create dynamic and sophisticated permissions for their user community, setting unique conditions for joining or communicating in groups.  
+𝟯. 𝗡𝗼𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻/𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝘀𝗲𝘁𝘁𝗶𝗻𝗴𝘀 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻
+     Illustrate the power of Push Notifications by incorporating its Notification Settings option into your dapp. This  feature allows users to tailor the notifications they receive, thereby ensuring a more personalized user experience. With Boolean and Slider Settings as part of the Notification Settings, users gain the flexibility to switch preferences on and off and fine-tune them, increasing the customization and relevance of each notification.
+𝟰. 𝗕𝗲𝘀𝘁 𝘂𝘀𝗲 𝗼𝗳 𝗣𝘂𝘀𝗵 𝗽𝗿𝗼𝘁𝗼𝗰𝗼𝗹 
+    This bounty recognizes the most exceptional and impactful implementation of the Push Protocol, emphasizing applications that significantly enhance user interaction and experience through effective use of Push features.
+Links and ResourcesChannel Settingshttps://push.org/docs/notifications/build/create-channel-settings/↗Conditional gatinghttps://push.org/docs/chat/build/conditional-rules-for-group/↗Stream Notificationshttps://push.org/docs/notifications/build/stream-notifications/↗Push Documentationhttps://push.org/docs/↗","Problem Statement:
+The problem statement is to develop innovative solutions using the Push Protocol and showcase its potential in various areas such as integrations, notification settings, and overall user experience.
+
+Prize:
+The total prize pool is $8,000, which will be distributed among the winners as follows:
+- First place: $2,500
+- Second place: $2,500
+- Third place: $1,500
+- Fourth place: $1,500
+
+Qualification Criteria:
+There are four different categories for the prize, and each category has its own qualification criteria:
+1. Creative Bounty: Participants need to build solutions using the Push Protocol that challenge norms and demonstrate creative implementations.
+2. Conditional Gating Integration: Participants need to integrate the Conditional Gating feature of Push Protocol into their decentralized applications (dapps) to create dynamic and sophisticated permissions for user communities.
+3. Notification/Channel Settings Implementation: Participants need to incorporate the Notification Settings option of Push Protocol into their dapps, allowing users to tailor their notifications and enhance personalized user experiences.
+4. Best Use of Push Protocol: This category recognizes exceptional and impactful implementations of the Push Protocol that significantly enhance user interaction and experience through effective use of Push features."
+"▼🙏🏽 Namaste Push Protocol Bounty ⸺ $2,000We started with GM GM and now today we are here with Namaste, but it all started with social initiative. So, this bounty is dedicated to best use of Push Protocol in Social based Dapps. Whether to use Notifications for all the important alerts, or move even further with Notification settings to customize notifs, and no dapp is complete without chat functionality, and over this push provides super power of conditional gating too.𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 𝗳𝗼𝗿 𝗜𝗻𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻: 𝟭. 𝗦𝗼𝗰𝗶𝗮𝗹𝗜𝗺𝗽𝗮𝗰𝘁𝗛𝘂𝗯 : A DApp dedicated to social activists, where users can receive notifications about upcoming rallies or events. Using conditional gating, activists with specific badges or tokens can access private planning rooms. 𝟮. 𝗘𝗰𝗼𝗔𝗹𝗲𝗿𝘁 : An environmental initiative platform where users can chat about sustainable practices and get notified about eco-friendly events or sudden environmental crises. 𝟯. 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆𝗖𝗮𝗿𝗲 : A local community DApp where neighbors can communicate in real time, set up events, and receive notifications about local emergencies or activities. With conditional gating, special groups could be set up for neighborhood committees or watch groups. 𝟰. 𝗣𝘂𝘀𝗵𝗙𝗼𝗿𝗖𝗵𝗮𝗻𝗴𝗲 : A fundraising platform that sends out notifications about new charitable campaigns. Users can chat with charity organizers and use conditional gating to access exclusive fundraising events based on their donation history.
+Qualification Requirements""Namaste Push Protocol"" seeks to acknowledge the innovative spirit of developers who merge social initiatives with technology. It's more than just a challenge; it's a call to action for developers to make a meaningful impact in the world using Push Protocol.","Problem Statement: This bounty is dedicated to the best use of Push Protocol in Social based Dapps, specifically focusing on the use of notifications, customization of notification settings, and chat functionality.
+
+Prize: The prize for this competition is $2,000.
+
+Qualification Criteria: The bounty is open for developers who merge social initiatives with technology and aim to make a meaningful impact in the world using Push Protocol. There are no specific qualification requirements mentioned in the provided text."
+"▼🏆 Build a Consumer Product ⸺ $6,000   ① $2,500        ② $2,000        ③ $1,500    Leveraging Base, build a user friendly consumer product. Be creative!
+Build a tool to make subscription payments easier and simpler
+Make DAOs easier to discover, join, and manage
+Make a creative NFT project
+Fill any gaps currently not deployed on BaseQualification RequirementsWork must be deployed on or connected to Base in some way
+Work that is open source and free for others to use
+Shared artifacts (GitHub, planning documents, and a short video)
+For this hackathon, the project must be a new development in order to ensure equal opportunity","Problem Statement: Build a user-friendly consumer product using Base.
+
+Prize: $6,000, with prize amounts of $2,500, $2,000, and $1,500 for the top three winners.
+
+Qualification Criteria:
+1. The project must leverage Base in some way.
+2. The work should be open source and available for others to use.
+3. Shared artifacts such as GitHub repository, planning documents, and a short video should be provided.
+4. The project must be a new development to ensure equal opportunity."
+"▼🏆 Best use of Account Abstraction and Base Paymaster ⸺ $4,000   ① $2,500        ② $1,500    Utilize a smart contract wallet to further improve UX
+Utilize the new Base Paymaster to allow for free end user transactions
+Create a tool to make developers spin up an AA+Paymaster project fasterQualification RequirementsWork must be deployed on or connected to Base in some way
+Work that is open source and free for others to use
+Shared artifacts (GitHub, planning documents, and a short video)
+For this hackathon, the project must be a new development in order to ensure equal opportunity","Problem Statement: The problem statement revolves around maximizing the use of Account Abstraction and Base Paymaster to enhance user experience and reduce transaction costs.
+
+Prize: The prize for the hackathon is $4,000, with a breakdown of $2,500 for the winner and $1,500 for the runner-up.
+
+Qualification Criteria: To be eligible for the prize, the following requirements must be met:
+1. The work should be deployed on or connected to Base in some way.
+2. The project must be open source and freely available for others to use.
+3. Shared artifacts such as GitHub repository, planning documents, and a short video should be submitted.
+4. The project must be a new development specifically created for the hackathon to ensure fairness and equal opportunity."
+"▼🏆 Best Use or Extension of Fathom Protocol ⸺ $10,000   ① $4,500        ② $3,500        ③ $2,000    Ideas for Implementations:
+- Enable private peer-to-peer transfers of Fathom FXD stablecoin using zero-knowledge proof technology.
+- Develop Solidity smart contracts for stable pools like in Curve and integrate them with Fathom DEX.
+- Create and integrate a Fathom DEX plugin that will allow cross-DEX swaps.
+- Develop compliance features for FXD: daily limits, Know Your Customer (KYC) options, and wallet screening.
+- Integrations for Fathom FXD stablecoin with DEXs/bridges/aggregators/etc.
+- Integrations of Fathom Application with different open-source wallets.
+The 1st place-winner team will have an opportunity for a Dubai trip where they will get a chance to visit the XDC Network Developer Center and have an amazing desert safari.Qualification RequirementsAs a result, we expect the working smart contracts (passing unit tests) and UI (huge bonus). Showcase the deployed dApp working on XDC mainnet / Apothem testnet.","Problem Statement: The problem statement involves finding the best use or extension of the Fathom Protocol.
+
+Prize: The prize for the best use or extension of the Fathom Protocol is $10,000, with the first place winner receiving $4,500, the second place winner receiving $3,500, and the third place winner receiving $2,000. Additionally, the first place winner team will have the opportunity for a Dubai trip, including a visit to the XDC Network Developer Center and a desert safari.
+
+Qualification Criteria: Participants are required to develop working smart contracts (that pass unit tests) and a user interface (with a deployed dApp) that operates on the XDC mainnet or Apothem testnet. The submission should showcase the implementation of the Fathom Protocol in a practical manner."
+"▼🥇 Best overall use of Airstack APIs ⸺ $10,000   ① $2,500        ② $1,500 ×𝟺        ③ $500 ×𝟹    We're looking for the best overall apps created with Airstack. Need some inspiration? Come chat with our team or check out our ideas list.","Problem statement: The problem statement is to create the best overall apps using Airstack APIs.
+
+Prize: The prize for the best overall use of Airstack APIs is $10,000. Additionally, there are three sub-categories with prizes of $2,500, $1,500 (four winners), and $500 (three winners).
+
+Qualification criteria: The apps must be created using Airstack APIs to be eligible for the prize. There are no specific mentioned qualification criteria beyond that."
+"▼🏆 Best New Subgraph  ⸺ $3,000   ① $2,000        ② $1,000    Build and deploy a custom subgraph that indexes data from a smart contract to query blockchain data for your dapp.","Problem Statement: The problem is to build and deploy a custom subgraph that indexes data from a smart contract to query blockchain data for a decentralized application (dapp).
+
+Prize: The prize for the Best New Subgraph is $3,000, with $2,000 for the first place and $1,000 for the second place.
+
+Qualification Criteria: Participants need to build and deploy a custom subgraph that effectively indexes data from a smart contract. The subgraph should be able to query blockchain data for a dapp."
+"▼🏆 Best Use of Subgraph ⸺ $2,500   ① $1,700        ② $800    Query a new or existing subgraph on the Graph Explorer or hosted service using the public query URL from the subgraph dashboard.","Problem Statement: The problem is to identify the best use of a subgraph on the Graph Explorer or hosted service.
+
+Prize: The prize for the best use of a subgraph is $2,500.
+
+Qualification Criteria: Participants need to query a new or existing subgraph on the Graph Explorer or hosted service using the public query URL from the subgraph dashboard."
+"▼🏆 Best Use of Substreams ⸺ $2,000Use a new or existing substream to process and consume web3 data. This includes the use of Substreams-powered subgraphs.Qualification RequirementsUse a new or existing substream to process and consume web3 data. This includes the use of Substreams-powered subgraphs.","Problem Statement: The problem is to find and implement the best use of substreams in processing and consuming web3 data, including the use of Substreams-powered subgraphs.
+
+Prize: The prize for the best use of substreams is $2,000.
+
+Qualification Criteria: Participants need to use a new or existing substream to process and consume web3 data. This should include the use of Substreams-powered subgraphs."
+"▼🚀 Best Omnichain Contract ⸺ $2,000ZetaChain is an EVM L1 that let's you build omnichain contracts. Users can deposit/withdraw value and call omnichain contracts from any connected chain. Create an awesome dapp that leverages ZetaChain's omnichain contracts capabilities.Qualification Requirements- Implement onCrossChainCall functionality
+- Compatible with all chains connected to ZetaChain (Ethereum, Polygon, BSC, and Bitcoin)
+- Use ZRC-20
+- Implement custom logic (not tutorials or simple examples)Links and ResourcesOmnichain contracts overviewhttps://www.zetachain.com/docs/developers/omnichain/overview/↗Tutorialshttps://www.zetachain.com/docs/developers/omnichain/tutorials/hello/↗Omnichain swap tutorial (video)https://www.youtube.com/watch?v=t59EtsBequI↗","Problem Statement: Create an awesome dapp that leverages ZetaChain's omnichain contracts capabilities.
+
+Prize: $2,000 
+
+Qualification Criteria:
+- Implement onCrossChainCall functionality
+- Compatible with all chains connected to ZetaChain (Ethereum, Polygon, BSC, and Bitcoin)
+- Use ZRC-20
+- Implement custom logic (not tutorials or simple examples)"
+"▼🟠 Best Contract for Bitcoin ⸺ $2,000ZetaChain offers an EVM platform for developers to build contracts that can be deposited value and called from Bitcoin. Come up with and implement the most interesting use case for an omnichain contract compatible with Bitcoin.Qualification Requirements- Implement onCrossChainCall functionality
+- Compatible with Bitcoin (compatibility with Ethereum, Polygon, and BSC is a plus)
+- Provide useful functionality for Bitcoin users
+- Let users deposit and withdraw BTC
+- Use ZRC-20
+- Implement custom logic (not tutorials or simple examples)Links and ResourcesOmnichain staking tutorial (compatible with Bitcoin)https://www.zetachain.com/docs/developers/omnichain/tutorials/staking/↗Omnichain swap tutorial (compatible with Bitcoin)https://www.zetachain.com/docs/developers/omnichain/tutorials/swap/↗Bitcoin frontend tutorialhttps://www.zetachain.com/docs/developers/omnichain/tutorials/bitcoin-frontend/↗","Problem Statement: Create and implement an interesting use case for an omnichain contract compatible with Bitcoin that provides useful functionality for Bitcoin users.
+
+Prize: $2,000ZetaChain
+
+Qualification Criteria:
+- Implement onCrossChainCall functionality
+- Compatibility with Bitcoin (compatibility with Ethereum, Polygon, and BSC is a plus)
+- Provide useful functionality for Bitcoin users
+- Ability for users to deposit and withdraw BTC
+- Use ZRC-20
+- Implement custom logic (not tutorials or simple examples)"
+"▼✉️ Best Use of Cross-Chain Messaging ⸺ $1,000ZetaChain offers general pupose cross-chain messaging (CCM) between connected EVM chains. Messages can transfer value and contain arbitrary data as payload. Find the most creative use-case for this technology.Qualification Requirements- Use ZetaChain's Connector API to send messages
+- Implement onZetaMessage and onZetaRevert to handle messages
+- Compatible with all connected chains (Ethereum, Polygon, BSC)
+- Deploy to ZetaChain testnet
+- Implement custom logic (not tutorials or simple examples)Links and ResourcesCross-chain messaging overviewhttps://www.zetachain.com/docs/developers/cross-chain-messaging/overview/↗Introductory tutorialhttps://www.zetachain.com/docs/developers/cross-chain-messaging/examples/hello-world/↗","Problem Statement: Find the most creative use-case for ZetaChain's general purpose cross-chain messaging (CCM) technology.
+
+Prize: $1,000
+
+Qualification Requirements:
+1. Use ZetaChain's Connector API to send messages.
+2. Implement onZetaMessage and onZetaRevert to handle messages.
+3. Ensure compatibility with all connected chains, such as Ethereum, Polygon, and BSC.
+4. Deploy the solution to ZetaChain testnet.
+5. Implement custom logic, not tutorials or simple examples.
+
+Links and Resources:
+- Cross-chain messaging overview: [Link](https://www.zetachain.com/docs/developers/cross-chain-messaging/overview/)
+- Introductory tutorial: [Link](https://www.zetachain.com/docs/developers/cross-chain-messaging/examples/hello-world/)"
+"▼🏆 Best use of programmable storage functionalities ⸺ $2,000For this prize, we are looking for valuable use cases of our programmable storage functionality that allow users to program a resource like storage on a granular level with parameters like number of replications, renewal epochs, and repair policy.Qualification Requirements1. Use programmable storage functionalities via Lighthouse SDK or Contracts
+2. Deploy on FVM (Filecoin virtual machine) testnet or mainnet
+3. Make the project live on a link that we can try and use. Projects with a live link are more likely to win than showing it on localhost.Links and ResourcesProgrammable storage docshttps://docs.lighthouse.storage/lighthouse-1/filecoin-virtual-machine/section-a↗","Problem Statement:
+The problem statement is to find the best use cases for the programmable storage functionality provided by Lighthouse. They are looking for innovative use cases that demonstrate the value of programmable storage, allowing users to program storage resources on a granular level with parameters like replications, renewal epochs, and repair policy.
+
+Prize:
+The prize for this competition is $2,000.
+
+Qualification Criteria:
+To qualify for the prize, participants must meet the following requirements:
+1. Utilize programmable storage functionalities through the Lighthouse SDK or Contracts.
+2. Deploy the project on the FVM (Filecoin virtual machine) testnet or mainnet.
+3. Make the project live on a link that can be accessed and used. Projects with a live link are more likely to win compared to projects hosted on localhost."
+"▼🏆 Best overall use of Lighthouse SDK ⸺ $3,000   ① $1,500        ② $1,500    This track is for all projects using Lighthouse SDK and its various functionalities like perpetual storage, token gating, IPNS, pinning, and encryption to build on IPFS and Filecoin. Using Lighthouse SDK with other Filecoin tech like IPC, Lilypad, Saturn, etc., will also qualify.Qualification Requirements1. Use Lighthouse SDK in your application
+2. Make the project live on a link that we can try and use. Projects with a live link are more likely to win than showing it on localhost.
+3. Projects with contracts deployed on any chain will qualify for this prize","Problem Statement: The problem statement is to build projects using Lighthouse SDK and its functionalities to build on IPFS and Filecoin.
+
+Prize: The prize for the best overall use of Lighthouse SDK is $3,000, which will be divided equally into two prizes of $1,500 each.
+
+Qualification Criteria:
+1. Use Lighthouse SDK in the application.
+2. Make the project live on a link that can be tried and used. Projects with a live link have a higher chance of winning compared to projects hosted on localhost.
+3. Projects with contracts deployed on any blockchain will qualify for the prize."
+"▼⚡ Most novel dApp on X1 ⸺ $4,500   ① $3,000        ② $1,500    For this prize, we are looking for the most original dApps deployed to our new X1 chain. X1 is a new, cutting-edge zero-knowledge L2 network powered by OKX and built with the Polygon CDK. Whether you are a new developer or Web3 wizard, we invite you to bring your creativity to the most global community of builders.
+Qualification RequirementsYour dApp must be deployed or connected to X1. The submission should be an open source project with clear documentation. And finally, this must be a project that is newly developed to ensure fairness.Links and ResourcesX1 Documentationhttps://www.okx.com/x1/docs/developer/build-on-x1/quickstart↗","Problem Statement: The challenge is to develop the most original dApp deployed on the X1 chain, a cutting-edge zero-knowledge L2 network powered by OKX and built with the Polygon CDK.
+
+Prize: The prize for the most novel dApp on X1 is $4,500, with $3,000 for the winner and $1,500 for the runner-up.
+
+Qualification Criteria: To be eligible for the prize, the dApp must be deployed or connected to the X1 chain. Additionally, the submission should be an open-source project with clear documentation. The project must be newly developed to ensure fairness."
+"▼🪄 Best use of Account Abstraction ⸺ $500Account Abstraction is the hottest new thing in Web3! Show us what you got by deploying a dApp with our integrated smart wallet account or create new tool to help other developers create AA applications.Qualification RequirementsYour dApp must be deployed or connected to X1. The submission should be an open source project with clear documentation. And finally, this must be a project that is newly developed to ensure fairness.","Problem Statement: The challenge is to create a dApp or a tool using Account Abstraction, a new technology in Web3.
+
+Prize: $500
+
+Qualification Criteria:
+1. The dApp or tool must be deployed or connected to X1.
+2. The submission should be an open-source project with clear documentation.
+3. The project must be newly developed to ensure fairness."
+"▼📲 Best Gas API Application ⸺ $5,000Up to 3 teams will receive $1,666To be eligible for this bounty you must:
+ 
+● Use the Gas API (*requires Infura
+● Choose either option A or B 
+   A) Incorporate the MetaMask SDK or
+   B) Deploy a contract to Linea
+ 
+║Gas API 
+ 
+MetaMask's Gas API optimizes gas fees for millions of users across the major networks. It is now available on Infura for free for limited usage, so you can use the same Gas API in your dapp now.
+ 
+● Fetch Real-Time Gas Prices
+● Access Gas Price History
+● Estimate Transaction Speed
+ 
+〡METAMASK SDK OPTION
+ 
+If you choose to use the MetaMask SDK in your project, understand how it differs from just connecting using our MetaMask API
+ 
+MetaMask SDK Resources:
+ 
+● Video Tutorial
+● Demo Repo
+● SDK Developer Guide
+ 
+〡LINEA OPTION
+ 
+If you choose to deploy to Linea Testnet or Mainnet on Linea, if you know how to deploy on Ethereum, you know how to deploy on Linea! 
+ 
+Linea is an EVM-equivalent zk-rollup that helps you securely scale your dapps. Bonus points for incorporating tools from our tooling page.Qualification Requirements Code needs to be viewable on GitHub including a descriptive README of all tech used
+ GitHub code should be runnable by our judges
+ Each submission should have a short video explaining scope and functionalityLinks and ResourcesInfura Gas API Docshttps://docs.infura.io/infura-expansion-apis/gas-api↗Infura Gas API Quickstarthttps://docs.infura.io/infura-expansion-apis/gas-api/quickstart↗Gas Tracker with Gas API and Nextjshttps://metamask.io/news/developers/how-to-build-a-simple-gas-tracker-app-with-gas-api-and-nextjs/↗How to use the Gas APIhttps://www.youtube.com/watch?v=74clgGR6rok↗Linea Docshttps://docs.linea.build/↗Lineascanhttps://lineascan.build/↗MetaMask SDK Developer Guidehttps://dev.to/metamask/metamask-sdk-dev-guide-4f6m ↗MetaMask JS SDK NPM Packagehttps://www.npmjs.com/package/@metamask/sdk↗MetaMask SDK React Componentshttps://www.npmjs.com/package/@metamask/sdk-react-ui↗Web3-onboard MetaMask SDK Packagehttps://www.npmjs.com/package/@web3-onboard/metamask/v/2.0.2-alpha.3↗GitHub GasAPI-Templatehttps://github.com/consensys/GasAPI-Template↗","Problem Statement: Develop the best Gas API application using the MetaMask SDK or by deploying a contract to Linea.
+
+Prize: $5,000, with up to 3 teams receiving $1,666 each.
+
+Qualification Criteria:
+- Use the Gas API, which requires Infura.
+- Choose either option A: Incorporate the MetaMask SDK, or option B: Deploy a contract to Linea.
+- Code needs to be viewable on GitHub, including a descriptive README of all tech used.
+- GitHub code should be runnable by the judges.
+- Each submission should have a short video explaining the scope and functionality of the application.
+
+Additional Resources:
+- Infura Gas API Documentation
+- Infura Gas API Quickstart Guide
+- Gas Tracker with Gas API and Nextjs Example
+- Gas API Usage Tutorial Video
+- Linea Documentation
+- Lineascan Tool
+- MetaMask SDK Developer Guide
+- MetaMask JS SDK NPM Package
+- MetaMask SDK React Components
+- Web3-onboard MetaMask SDK Package
+- GasAPI-Template on GitHub"
+"▼👽 Most Likely to be a Startup ⸺ $5,000   ① $2,000        ② $1,000        ③ $667 ×𝟹    Looking to start a company? Build an MVP from the Alliance ideas list (https://alliance.xyz/ideas) or submit another project for your chance to win a $2,000, $1000, or $500 prize. Not just that, Alliance wants to take your project to the next level with a guaranteed first-round interview to ALL12, Alliance's accelerator cohort starting in Feb 2024. This program has less than a 1% acceptance rate.
+Some of the past startups that have joined our accelerator include: 0x, Zerion, Ribbon, Pendle, Synthetix, and Tensor.","Problem Statement: Alliance is looking for individuals or teams who are interested in starting a company and are willing to build a minimum viable product (MVP) from the Alliance ideas list or submit another project.
+
+Prize: The prize for the competition is $5,000, with the following distribution: $2,000 for the first-place winner, $1,000 for the second-place winner, and $667 for the third-place winner (multiplied by 3).
+
+Qualification Criteria: Participants must build an MVP from the Alliance ideas list or submit another project. They have a chance to win the cash prizes mentioned above. Additionally, Alliance is offering a guaranteed first-round interview to all participants for their accelerator cohort, ALL12, starting in February 2024. However, it is noted that the acceptance rate for this accelerator program is less than 1%."
