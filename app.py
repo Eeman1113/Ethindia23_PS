@@ -34,14 +34,14 @@ else:
 st.markdown('___')
 st.markdown("<h2 style='text-align: center; '>Most Voted Topics</h2>", unsafe_allow_html=True)
 
-# Calculate total votes for each summary
-vote_df['TotalVotes'] = vote_df['Upvote'] + vote_df['Downvote']
+# Calculate net votes for each summary (Upvotes - Downvotes)
+vote_df['NetVotes'] = vote_df['Upvote'] - vote_df['Downvote']
 
-# Sort the DataFrame based on total votes
-sorted_vote_df = vote_df.sort_values(by='TotalVotes', ascending=False)
+# Sort the DataFrame based on net votes
+sorted_vote_df = vote_df.sort_values(by='NetVotes', ascending=False)
 
-# Create a bar chart
-st.bar_chart(sorted_vote_df[['Upvote', 'Downvote']])
+# Create a bar chart for net votes
+st.bar_chart(sorted_vote_df['NetVotes'])
 
 for i in range(len(df['Summary'])):
     st.markdown('___')
