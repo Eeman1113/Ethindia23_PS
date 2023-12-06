@@ -6,7 +6,7 @@ import os
 df = pd.read_csv('./data/eth23.csv')
 
 st.markdown("<h1 style='text-align: center; '>CookEthNotMeth 勝</h1>", unsafe_allow_html=True)
-st.markdown("<h3 style='text-align: center; '>To Vote Click Twice (single click will not be counted)</h3>", unsafe_allow_html=True)
+# st.markdown("<h3 style='text-align: center; '>To Vote Click Twice (single click will not be counted)</h3>", unsafe_allow_html=True)
 
 # Check if the CSV file for storing votes exists, if not, create it
 vote_file_path = './data/votes.csv'
